@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow"/>
     </a>
     <a href="https://t.me/meldevlp">
-        <img src="https://img.shields.io/badge/telegramm-white?style=for-the-badge&logo=telegram"/>
+        <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram"/>
     </a>
     </div>
 </div>
