@@ -32,7 +32,7 @@
 ![PS_CC](https://img.shields.io/badge/-Adobe%20Photoshop%20CC-0078D6?style=flat-square&logo=Adobe-Photoshop&logoColor=0a033e)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-green?style=flat-square&logo=python&labelColor=blue&color=blue&logoColor=yellow)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![linux](https://img.shields.io/badge/linux-white?style=flat-square&logo=linux&logoColor=000000)
+![linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=000000)
 
 
 ___
