@@ -57,6 +57,6 @@ ___
 ___
 ### Now I am studying these *Lang* / *Techs*
 
->#### ![asp](https://img.shields.io/badge/ASP.NET%20Core-512ad5?style=flat-square&logo=dotnet&logoColor=white)
+>#### ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=orange) After
+>>#### ![kotlin](https://img.shields.io/badge/Kotlin-white?style=flat-square&logo=kotlin&logoColor=magenta)
 
->#### ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
