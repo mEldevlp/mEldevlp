@@ -55,10 +55,6 @@ ___
 </div>
 
 ___
-## __Codewars__
-![codewars](https://www.codewars.com/users/melsurfer/badges/large)
-
-___
 ### Now I am studying these *Lang* / *Techs*
 
 >#### ![asp](https://img.shields.io/badge/ASP.NET%20Core-512ad5?style=flat-square&logo=dotnet&logoColor=white)
