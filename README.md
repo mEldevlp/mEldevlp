@@ -57,6 +57,5 @@ ___
 ___
 ### Now I am studying these *Langs* / *Techs*
 
->#### ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=orange) now here
->>#### ![kotlin](https://img.shields.io/badge/Kotlin-white?style=flat-square&logo=kotlin&logoColor=magenta)
+>#### ![kotlin](https://img.shields.io/badge/Kotlin-white?style=flat-square&logo=kotlin&logoColor=magenta)
 
