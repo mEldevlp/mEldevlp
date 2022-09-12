@@ -45,7 +45,6 @@ ___
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![php5](https://img.shields.io/badge/PHP5-4f5b93?style=flat-square&logo=php&logoColor=ffffff)
 ![VBA](https://img.shields.io/badge/-VBA(Excel)-black?style=flat-square&logo=MicrosoftExcel&logoColor=00f900)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ___
 ## __Github stats__
