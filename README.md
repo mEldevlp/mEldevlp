@@ -56,5 +56,5 @@ ___
 ___
 ### Now I am studying these *Langs* / *Techs*
 
->#### ![kotlin](https://img.shields.io/badge/Kotlin-white?style=flat-square&logo=kotlin&logoColor=7F52FF)
+>#### ![OpenGL](https://img.shields.io/badge/OpenGL-blue?style=flat-square&logo=opengl&logoColor=ffffff)
 
