@@ -56,5 +56,5 @@ ___
 ___
 ### Now I am studying these *Langs* / *Techs*
 
->#### ![OpenGL](https://img.shields.io/badge/OpenGL-blue?style=flat-square&logo=opengl&logoColor=ffffff)
+>#### ![Vulkan](https://img.shields.io/badge/Vulkan-black?style=flat-square&logo=vulkan&logoColor=ff0000)
 
