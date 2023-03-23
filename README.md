@@ -45,16 +45,3 @@ ___
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![php5](https://img.shields.io/badge/PHP5-4f5b93?style=flat-square&logo=php&logoColor=ffffff)
 ![VBA](https://img.shields.io/badge/-VBA(Excel)-black?style=flat-square&logo=MicrosoftExcel&logoColor=00f900)
-
-___
-## __Github stats__
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=indydevlp&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indydevlp&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-</div>
-
-___
-### Now I am studying these *Langs* / *Techs*
-
->#### ![Vulkan](https://img.shields.io/badge/Vulkan-black?style=flat-square&logo=vulkan&logoColor=ff0000)
-
