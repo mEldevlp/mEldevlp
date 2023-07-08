@@ -37,7 +37,8 @@ ___
 
 ## __Programming / Scripting Languages__
 
->![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
+> ![C](https://img.shields.io/badge/C-gray?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![C++CLI](https://img.shields.io/badge/C++/CLI-6a207b?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![php5](https://img.shields.io/badge/PHP5-4f5b93?style=flat-square&logo=php&logoColor=ffffff)
