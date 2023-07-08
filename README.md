@@ -1,9 +1,6 @@
 <div id="header" align="center">
     <div id="badges">
     <h2><b>My Social Media</b></h2>
-    <a href="https://vk.com/indydevlp">
-        <img src="https://img.shields.io/badge/vkontakte-white?style=for-the-badge&logo=vk&logoColor=blue"/>
-    </a>
     <a href="https://ru.stackoverflow.com/users/434611/mel">
         <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow"/>
     </a>
