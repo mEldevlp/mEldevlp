@@ -1,17 +1,3 @@
-<div id="header" align="center">
-    <div id="badges">
-    <h2><b>My Social Media</b></h2>
-    <a href="https://ru.stackoverflow.com/users/434611/mel">
-        <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow"/>
-    </a>
-    <a href="https://t.me/meldevlp">
-        <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram"/>
-    </a>
-    </div>
-</div>
-
-<hr>
-
 ## ___Tech & Tools Preference___
 
 > ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
