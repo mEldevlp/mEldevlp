@@ -26,5 +26,6 @@ ___
 > ![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![C++CLI](https://img.shields.io/badge/C++/CLI-6a207b?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Pawn](https://img.shields.io/badge/Pawn-brown?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![VBA](https://img.shields.io/badge/-VBA(Excel)-black?style=flat-square&logo=MicrosoftExcel&logoColor=00f900)
