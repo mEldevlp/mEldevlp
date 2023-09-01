@@ -1,31 +1,59 @@
-## ___Tech & Tools Preference___
+<div align="right">
+<h6 style="margin-top: 0.1em;">C makes it easy to shoot yourself in the foot; <br/>C++ makes it harder, but when you do, it blows away your whole leg</h6>
+</div>
+<div align="right">🌱 Bjarne Stroustrup</div>
 
-> ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Less](https://img.shields.io/badge/-Less-1b385c?style=flat-square&logo=less&logoColor=%1b385c) 
-![WP](https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress&logoColor=%23ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=003b57&labelColor=008dd0&color=8fd4f3)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Pycharm](https://img.shields.io/badge/-Pycharm-white?style=flat-square&logo=pycharm&logoColor=000)
-![VSS](https://img.shields.io/badge/-Visual%20Studio-6a207b?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![VS_code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=%23ffffff)
-![PS_CC](https://img.shields.io/badge/-Adobe%20Photoshop%20CC-0078D6?style=flat-square&logo=Adobe-Photoshop&logoColor=0a033e)
-![Aiogram](https://img.shields.io/badge/-Aiogram-green?style=flat-square&logo=python&labelColor=blue&color=blue&logoColor=yellow)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
-![linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=000000)
+<div>👋 I’m Daniel&nbsp;&nbsp;|&nbsp;&nbsp;21 y.o.</div>
+<div>💻 Bad coder</div>
 
+## 🛠  Technologies, tools & programming/scripting languages
+<span>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="23" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="23" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="23" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Less-282C34?logo=Less&logoColor=649ad2" alt="Less logo" title="Less" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=0087be" alt="wp logo" title="wp" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F29111" alt="mysql logo" title="mysql" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=008dd0" alt="sqlite logo" title="sqlite" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=787cb4" alt="PHP logo" title="PHP" height="23" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="23" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-282C34?logo=Pycharm&logoColor=fff" alt="Pycharm logo" title="pycharm" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=b179f1" alt="msvc logo" title="msvc" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=47aef3" alt="vscode logo" title="vscode" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows10&logoColor=00aff1" alt="win10 logo" title="win10" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=0377bd" alt="psh logo" title="psh" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=fff" alt="linux logo" title="linux" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/BASH-282C34?logo=gnu-bash&logoColor=fff" alt="sh logo" title="sh" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/UE%205-282C34?logo=unreal%20engine&logoColor=fff" alt="ue logo" title="ue5" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=fff" alt="py logo" title="py" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VBA%20(Excel)-282C34?logo=MicrosoftExcel&logoColor=00f900" alt="vba logo" title="vba" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=649ad2" alt="C++ logo" title="c++" height="23"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/The%20C-282C34?logo=C&logoColor=a9b9cb" alt="The C logo" title="C" height="23"/>
+&nbsp;&nbsp;
+</span>
 
-___
-
-
-## __Programming / Scripting Languages__
-
-> ![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![C++CLI](https://img.shields.io/badge/C++/CLI-6a207b?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Pawn](https://img.shields.io/badge/Pawn-brown?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![VBA](https://img.shields.io/badge/-VBA(Excel)-black?style=flat-square&logo=MicrosoftExcel&logoColor=00f900)
+## 🎓 Learning & Certificate
+<span>
+<img src="https://www.codewars.com/users/indydevlp/badges/micro" alt="codewars" title="codewars" height="23"/>
+&nbsp;
+</span>
