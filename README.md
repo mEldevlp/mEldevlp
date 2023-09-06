@@ -53,6 +53,4 @@
 </span>
 
 ## 🎓 Learning & Certificate
-<span>
-<img src="https://www.codewars.com/users/indydevlp/badges/micro" alt="codewars" title="codewars" height="23"/>
-</span>
+  <a src="https://www.codewars.com/users/indydevlp"><img src="https://www.codewars.com/users/indydevlp/badges/micro" alt="codewars" title="codewars" height="23"/></a>
