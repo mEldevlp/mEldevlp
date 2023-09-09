@@ -4,7 +4,7 @@
 <div align="right">🌱 Bjarne Stroustrup</div>
 
 <div>👋 I’m Daniel&nbsp;&nbsp;|&nbsp;&nbsp;21 y.o.</div><br>
-<div>📚 I study computer science and programming</div>
+<div>📚 I’m studying computer science and programming</div>
 <div>💼 The last one is my hobby and job</div>
 <div>🌌 I like physics, mathematics, astronomy</div>
 <div>😇 My dream is that people work will be simplified as much as possible</div>
