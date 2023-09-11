@@ -9,7 +9,7 @@
 <div>🌌 I like physics, mathematics, astronomy</div>
 <div>😇 My dream is that people work will be simplified as much as possible</div>
 
-## 🛠  Technologies, tools & programming/scripting languages
+### 🛠  Technologies, tools & programming/scripting languages
 <span>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="23" />
 &nbsp;
@@ -55,5 +55,5 @@
 &nbsp;
 </span>
 
-## 🎓 Learning & Certificate
+### 🎓 Learning & Certificate
   <a src="https://www.codewars.com/users/indydevlp"><img src="https://www.codewars.com/users/indydevlp/badges/micro" alt="codewars" title="codewars" height="23"/></a>
