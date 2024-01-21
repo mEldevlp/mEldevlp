@@ -3,7 +3,7 @@
 </div>
 <div align="right">🌱 Bjarne Stroustrup</div>
 
-<div>👋 I’m Daniel&nbsp;&nbsp;|&nbsp;&nbsp;21 y.o.</div><br>
+<div>👋 I’m Daniel&nbsp;&nbsp;|&nbsp;&nbsp;22 y.o.</div><br>
 <div>📚 I’m studying computer science and programming</div>
 <div>💼 The last one is my hobby and job</div>
 <div>🌌 I like physics, mathematics, astronomy</div>
