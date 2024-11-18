@@ -53,6 +53,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/The%20C-282C34?logo=C&logoColor=a9b9cb" alt="The C logo" title="C" height="23"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Qt%20Framework-282C34?logo=Qt&logoColor=2CDE85" alt="Qt" title="Qt" height="23"/>
+&nbsp;
 </span>
 
 ### 🎓 Learning & Certificate
