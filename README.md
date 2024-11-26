@@ -55,6 +55,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Qt%20Framework-282C34?logo=Qt&logoColor=2CDE85" alt="Qt" title="Qt" height="23"/>
 &nbsp;
+<img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=8d8c8a" alt="json" title="JSON" height="23"/>
+&nbsp;
 </span>
 
 ### 🎓 Learning & Certificate
