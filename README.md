@@ -44,8 +44,8 @@
 
 ### 🎓 Certificates & Achievements
 <div>
-  <a href="https://www.codewars.com/users/indydevlp">
-    <img src="https://www.codewars.com/users/indydevlp/badges/micro" alt="Codewars Rank" >
+  <a href="https://www.codewars.com/users/mEldevlp">
+    <img src="https://www.codewars.com/users/mEldevlp/badges/micro" alt="Codewars Rank" >
   </a>
   <span>&nbsp;Focused on solving algorithmic challenges in multiple languages.</span>
 </div>
