@@ -4,7 +4,7 @@
 <div align="right">🌱 Bjarne Stroustrup</div>
 
 <div align="left">
-  <h3>👋 Hi, I’m Daniel | 22 y.o.</h3>
+  <h3>👋 Hi, I’m Daniel | 23 y.o.</h3>
   <p>🎓 Computer Science student at <a href="https://novsu.ru" target="_blank">Novgorod State University</a>, Software Engineer</p>
 </div>
 
@@ -42,19 +42,11 @@
 <img src="https://img.shields.io/badge/Telegram%20Bots-282C34?logo=telegram&logoColor=55baec" alt="tg" title="telegram bots" height="23"/>
 </div>
 
-### 🎓 Certificates & Achievements
-<div>
-  <a href="https://www.codewars.com/users/mEldevlp">
-    <img src="https://www.codewars.com/users/mEldevlp/badges/micro" alt="Codewars Rank" >
-  </a>
-  <span>&nbsp;Focused on solving algorithmic challenges in multiple languages.</span>
-</div>
-
 ### 🔗 Projects
 1. [🔗 **Keencloo Cinema**](https://github.com/mEldevlp/Keencloo-Cinema): A program for watch movies.
 2. [🔗 **Console Menu Callback**](https://github.com/mEldevlp/console-menu-callback-winapi): A simple menu with callback system.
 3. [🔗 **Tanks battle**](https://github.com/mEldevlp/battle-city): A primitive 2d game.
-4. [🔗 **Surf Duels**](https://github.com/mEldevlp/surf-duels): Plugin for CS 1.6, surf duels system.
+4. [🔗 **Surf Duels**](https://github.com/mEldevlp/Surf-Mod-mm): A Metamod plugin for CS 1.6, duels & judje system.
 
 ### 📖 Learning Goals
 - Currently diving deep into [**Qt**](https://www.qt.io/) and focusing on **desktop development**.
