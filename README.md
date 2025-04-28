@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/BASH-282C34?logo=gnu-bash&logoColor=fff" alt="sh logo" title="sh" height="23"/>
 <img src="https://img.shields.io/badge/VBA%20(Excel)-282C34?logo=MicrosoftExcel&logoColor=00f900" alt="vba logo" title="vba" height="23"/>
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=fff" alt="py logo" title="py" height="23"/>
-<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=649ad2" alt="C++ logo" title="c++" height="23"/>
+<img src="https://img.shields.io/badge/C++-fad000?logo=cplusplus&logoColor=649ad2" alt="C++ logo" title="c++" height="23"/>
 <img src="https://img.shields.io/badge/The%20C-282C34?logo=C&logoColor=a9b9cb" alt="The C logo" title="C" height="23"/>
 <img src="https://img.shields.io/badge/Qt%20Framework-282C34?logo=Qt&logoColor=2CDE85" alt="Qt" title="Qt" height="23"/>
 <img src="https://img.shields.io/badge/CMake-282C34?logo=cmake&logoColor=c70000" alt="cmake" title="cmake" height="23"/>
