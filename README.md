@@ -33,7 +33,7 @@ I am a student <span>Computer Science at <a href="https://novsu.ru " target="_bl
 | **[Keencloo Cinema](https://github.com/mEldevlp/Keencloo-Cinema)** | A desktop application for watching video files | C++, Qt |
 | **[Surf-Mod-mm (Surf Duels)](https://github.com/mEldevlp/Surf-Mod-mm)** | The Metamod plugin for CS 1.6 is a duel mode and the judicial system | C++ |
 | **[surfcombat-metamod-cs2](https://github.com/mEldevlp/surfcombat-metamod-cs2)** | Metamod plugin for Counter-Strike 2 — Surf Combat mode | C++ |
-| **[HermesImageBot](https://github.com/mEldevlp/HermesImageBot)** | A Telegram bot using `tgbot-cpp` for step-by-step caption creation via buttons and automatic text overlay on images | С++, tgbot-cpp |
+| **[HermesImageBot](https://github.com/mEldevlp/HermesImageBot)** 🔒 | A Telegram bot using `tgbot-cpp` for step-by-step caption creation via buttons and automatic text overlay on images | С++, tgbot-cpp |
 
 ## Learning Goals
 
