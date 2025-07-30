@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-I am a student <span>Computer Science at <a href="https://novsu.ru " target="_blank">Novgorod State University</a>, Software Engineer</span>, specializing in the development of desktop applications and open‑source solutions in C++ a++ and Qt. I strive to solve practical problems using clean, high-quality code and automation.
+I am a student <span>Computer Science at <a href="https://novsu.ru " target="_blank">Novgorod State University</a>, Software Engineer</span>, specializing in the development of desktop applications and open‑source solutions in C++ and Qt. I strive to solve practical problems using clean, high-quality code and automation.
 
 ### Preferred Tools
 <div align="left">
@@ -18,6 +18,8 @@ I am a student <span>Computer Science at <a href="https://novsu.ru " target="_bl
   <img src="https://img.shields.io/badge/Qt%20Framework-282C34?logo=Qt&logoColor=2CDE85" alt="Qt logo" title="Qt Framework" height="23" />
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="23" />
   <img src="https://img.shields.io/badge/CMake-282C34?logo=cmake&logoColor=c70000" alt="CMake logo" title="CMake" height="23" />
+  <img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=7e7e7e" alt="json logo" title="MySQL" height="23" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=3e719a" alt="Posgresql logo" title="MySQL" height="23" />
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F29111" alt="MySQL logo" title="MySQL" height="23" />
   <img src="https://img.shields.io/badge/SQLite-282C34?logo=SQLite&logoColor=008dd0" alt="SQLite logo" title="SQLite" height="23" />
 </div>
@@ -28,10 +30,10 @@ I am a student <span>Computer Science at <a href="https://novsu.ru " target="_bl
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Keencloo Cinema](https://github.com/mEldevlp/Keencloo-Cinema)** | A desktop application for watching video files, implemented in C++ using Qt. | C++, Qt |
-| **[Surf-Mod-mm (Surf Duels)](https://github.com/mEldevlp/Surf-Mod-mm)** | The Metamod plugin for CS 1.6 is a duel mode and the judicial system, written in C++. | C++ |
-| **[surfcombat-metamod-cs2](https://github.com/mEldevlp/surfcombat-metamod-cs2)** | Metamod plugin for Counter-Strike 2 — Surf Combat mode, C++. | C++ |
-| **[HermesImageBot](https://github.com/mEldevlp/HermesImageBot)** | A Telegram bot using `tgbot-cpp` for step-by-step caption creation via buttons and automatic text overlay on images. | С++, tgbot-cpp |
+| **[Keencloo Cinema](https://github.com/mEldevlp/Keencloo-Cinema)** | A desktop application for watching video files | C++, Qt |
+| **[Surf-Mod-mm (Surf Duels)](https://github.com/mEldevlp/Surf-Mod-mm)** | The Metamod plugin for CS 1.6 is a duel mode and the judicial system | C++ |
+| **[surfcombat-metamod-cs2](https://github.com/mEldevlp/surfcombat-metamod-cs2)** | Metamod plugin for Counter-Strike 2 — Surf Combat mode | C++ |
+| **[HermesImageBot](https://github.com/mEldevlp/HermesImageBot)** | A Telegram bot using `tgbot-cpp` for step-by-step caption creation via buttons and automatic text overlay on images | С++, tgbot-cpp |
 
 ## Learning Goals
 
